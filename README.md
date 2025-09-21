@@ -1,7 +1,7 @@
 # Hi there 👋🏻, I'm *ASHRAF ALI I*
 
 ![Typing
-Animation](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Software+Developer;Entrepreneur;&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
+Animation](https://readme-typing-svg.demolab.com/?lines=Cyber+Security;QA+ Analyst;Full+Stack+Developer;Software+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
 
 - 🔭 Here's my [Portfolio](https://ashraf-ali-portfolio.vercel.app/)
@@ -16,8 +16,8 @@ Animation](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Sof
 ### 👨‍💻 About Me
 - 🌱 Currently Learning: Advanced Web Development and Cybersecurity
 - 👯 Collaboration Goals: Building innovative and impactful projects
-- 💬 Ask Me About: Web Development, Full-Stack Development
-- ⚡ Fun Fact: I love experimenting with frameworks and designing workflows
+- 💬 Ask Me About: Cyber Security Engineer and VAPT 
+- ⚡ Fun Fact: I love experimenting with frameworks and Bug Bounty 
 
 ### 🌐 Connect with Me
 <p align="left">
@@ -44,13 +44,13 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" title="Node.js" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" /> 
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
 <img width="50" height="50" src="https://img.icons8.com/plasticine/100/kali-linux.png" alt="kali-linux"/>
 <img width="50" height="50" src="https://img.icons8.com/stickers/100/selenium-test-automation.png" alt="selenium-test-automation"/>
+<img width="50" height="50" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
  
   <!-- CodeChef -->
 <a href="https://www.codechef.com/users/ashrafali005" target="CodeChef">
-<img width="48" height="48" src="https://img.icons8.com/color/48/codechef.png" alt="codechef"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/codechef.png" alt="codechef"/>
 </p>
 
 
