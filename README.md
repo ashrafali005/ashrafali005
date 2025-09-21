@@ -1,7 +1,7 @@
 # Hi there 👋🏻, I'm *ASHRAF ALI I*
 
 ![Typing
-Animation](https://readme-typing-svg.demolab.com/?lines=Cyber+Security;QA+ Analyst;Full+Stack+Developer;Software+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
+Animation](https://readme-typing-svg.demolab.com/?lines=Cyber+Security;Full+Stack+Developer;Software+Developer;&font=Fira%20Code&center=true&width=440&height=45&color=00bcd4&vCenter=true&size=22)
 <img align="right" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding Gif" width="350" height="300" />
 
 - 🔭 Here's my [Portfolio](https://ashraf-ali-portfolio.vercel.app/)
