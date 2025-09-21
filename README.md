@@ -61,7 +61,7 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 <img width="50" height="50" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/>
 
 - *Workspace Setup:*<br>
-   ⭐ Laptop: *Dell Vostro 5620 * <br>
+   ⭐ Laptop: *Dell Vostro 5620* <br>
    ⭐ Processor: *Intel Core i5* <br>
    ⭐ Graphics: *Integrated Radeon Graphics* <br>
    ⭐ RAM: *16GB* <br
