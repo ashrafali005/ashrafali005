@@ -42,7 +42,6 @@ src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&lo
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" />
-<img width="50" height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
 <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="50" height="50" src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" title="GitHub" /> 
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
